@@ -1,0 +1,86 @@
+export const SalesBar=[
+  {
+    County:"Nairobi",
+    Design:300,
+    Pricing:500,
+    BOQ:700,
+    Delivery:400,
+    Personel:600,
+    Management:900,
+    Scheduling:600,
+    Structure:400,
+    Reports:300,
+    SiteVisits:200,
+    HandingOver:400,
+    Quality:300,
+    Enquiries:700
+},
+
+{
+County:"Eldoret",
+ Design:400,
+    Pricing:650,
+    BOQ:800,
+    Delivery:490,
+    Personel:700,
+    Management:450,
+    Scheduling:150,
+    Structure:300,
+    Reports:480,
+    SiteVisits:330,
+    HandingOver:240,
+    Quality:120,
+    Enquiries:800
+},
+
+{
+County:"Mombasa",
+Design:230,
+    Pricing:650,
+    BOQ:720,
+    Delivery:890,
+    Personel:600,
+    Management:250,
+    Scheduling:300,
+    Structure:600,
+    Reports:420,
+    SiteVisits:390,
+    HandingOver:430,
+    Quality:350,
+    Enquiries:500
+
+},
+{
+County:"Nakuru",
+Design:200,
+    Pricing:350,
+    BOQ:600,
+    Delivery:980,
+    Personel:655,
+    Management:410,
+    Scheduling:100,
+    Structure:690,
+    Reports:390,
+    SiteVisits:710,
+    HandingOver:340,
+    Quality:980,
+    Enquiries:100
+},
+{
+County:"Kisumu",
+Design:900,
+    Pricing:950,
+    BOQ:590,
+    Delivery:390,
+    Personel:980,
+    Management:897,
+    Scheduling:380,
+    Structure:490,
+    Reports:950,
+    SiteVisits:650,
+    HandingOver:220,
+    Quality:620,
+    Enquiries:1000
+},
+
+]
